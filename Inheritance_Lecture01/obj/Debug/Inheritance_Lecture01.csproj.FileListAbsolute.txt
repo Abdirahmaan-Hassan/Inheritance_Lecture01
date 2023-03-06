@@ -1,0 +1,18 @@
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\bin\Debug\Inheritance_Lecture01.exe.config
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\bin\Debug\Inheritance_Lecture01.exe
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\bin\Debug\Inheritance_Lecture01.pdb
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.csprojResolveAssemblyReference.cache
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.Form1.resources
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.Properties.Resources.resources
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.csproj.GenerateResource.Cache
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.exe
+D:\JUST\2022-2023\CA2010\ClassExamples\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.pdb
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\bin\Debug\Inheritance_Lecture01.exe.config
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.exe
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.pdb
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\bin\Debug\Inheritance_Lecture01.exe
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\bin\Debug\Inheritance_Lecture01.pdb
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.csprojResolveAssemblyReference.cache
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.Form1.resources
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.Properties.Resources.resources
+C:\Users\25261\Desktop\c# assignments\Inheritance_Lecture01\Inheritance_Lecture01\obj\Debug\Inheritance_Lecture01.csproj.GenerateResource.Cache
